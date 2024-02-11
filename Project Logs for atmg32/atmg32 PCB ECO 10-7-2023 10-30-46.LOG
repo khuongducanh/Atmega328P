@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=JDC1-1
+Added Component: Designator=D1(1N4007)
+Add component (AddParameter): Name = "Value"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=JDC1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=atmg32 Member=Component D1 1N4007
+Added Room: Name=atmg32

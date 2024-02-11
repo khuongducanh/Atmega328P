@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=AREF Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Added Component: Designator=C3(CAP 10x16x5 CURVE)
+Added Component: Designator=C4(CAP 10x16x5 CURVE)
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=AREF Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=atmg32 Member=Component C3 2000uF/10V
+Added Member To Class: ClassName=atmg32 Member=Component C4 2000uF/10V
+Added Member To Class: ClassName=atmg32 Member=Component C5 104pF
+Added Member To Class: ClassName=atmg32 Member=Component C6 103pF
+Added Member To Class: ClassName=atmg32 Member=Component C7 22pF
+Added Member To Class: ClassName=atmg32 Member=Component C8 22pF
+Added Member To Class: ClassName=atmg32 Member=Component JP3 JP8
+Added Member To Class: ClassName=atmg32 Member=Component R2 1k
+Added Room: Name=atmg32

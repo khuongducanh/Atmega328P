@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=SCK Pin=JP1-1
+Removed Pin From Net: NetName=MISO Pin=JP1-2
+Removed Pin From Net: NetName=MOSI Pin=JP1-3
+Removed Pin From Net: NetName=NetAtmega1_5 Pin=JP1-4
+Removed Pin From Net: NetName=NetAtmega1_4 Pin=JP1-5
+Removed Pin From Net: NetName=NetAtmega1_3 Pin=JP1-6
+Removed Pin From Net: NetName=NetAtmega1_2 Pin=JP1-7
+Removed Pin From Net: NetName=NetAtmega1_1 Pin=JP1-8
+Removed Pin From Net: NetName=NetAtmega1_40 Pin=JP2-1
+Removed Pin From Net: NetName=NetAtmega1_39 Pin=JP2-2
+Removed Pin From Net: NetName=NetAtmega1_38 Pin=JP2-3
+Removed Pin From Net: NetName=NetAtmega1_37 Pin=JP2-4
+Removed Pin From Net: NetName=NetAtmega1_36 Pin=JP2-5
+Removed Pin From Net: NetName=NetAtmega1_35 Pin=JP2-6
+Removed Pin From Net: NetName=NetAtmega1_34 Pin=JP2-7
+Removed Pin From Net: NetName=NetAtmega1_33 Pin=JP2-8
+Removed Pin From Net: NetName=NetAtmega1_21 Pin=JP3-1
+Removed Pin From Net: NetName=NetAtmega1_20 Pin=JP3-2
+Removed Pin From Net: NetName=NetAtmega1_19 Pin=JP3-3
+Removed Pin From Net: NetName=NetAtmega1_18 Pin=JP3-4
+Removed Pin From Net: NetName=NetAtmega1_17 Pin=JP3-5
+Removed Pin From Net: NetName=NetAtmega1_16 Pin=JP3-6
+Removed Pin From Net: NetName=NetAtmega1_15 Pin=JP3-7
+Removed Pin From Net: NetName=NetAtmega1_14 Pin=JP3-8
+Removed Pin From Net: NetName=NetAtmega1_22 Pin=JP4-1
+Removed Pin From Net: NetName=NetAtmega1_23 Pin=JP4-2
+Removed Pin From Net: NetName=NetAtmega1_24 Pin=JP4-3
+Removed Pin From Net: NetName=NetAtmega1_25 Pin=JP4-4
+Removed Pin From Net: NetName=NetAtmega1_26 Pin=JP4-5
+Removed Pin From Net: NetName=NetAtmega1_27 Pin=JP4-6
+Removed Pin From Net: NetName=NetAtmega1_28 Pin=JP4-7
+Removed Pin From Net: NetName=NetAtmega1_29 Pin=JP4-8
+Added Component: Designator=JP1(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK Pin=JP1-1
+Added Pin To Net: NetName=MISO Pin=JP1-2
+Added Pin To Net: NetName=MOSI Pin=JP1-3
+Added Pin To Net: NetName=NetAtmega1_5 Pin=JP1-4
+Added Pin To Net: NetName=NetAtmega1_4 Pin=JP1-5
+Added Pin To Net: NetName=NetAtmega1_3 Pin=JP1-6
+Added Pin To Net: NetName=NetAtmega1_2 Pin=JP1-7
+Added Pin To Net: NetName=NetAtmega1_1 Pin=JP1-8
+Added Pin To Net: NetName=NetAtmega1_40 Pin=JP2-1
+Added Pin To Net: NetName=NetAtmega1_39 Pin=JP2-2
+Added Pin To Net: NetName=NetAtmega1_38 Pin=JP2-3
+Added Pin To Net: NetName=NetAtmega1_37 Pin=JP2-4
+Added Pin To Net: NetName=NetAtmega1_36 Pin=JP2-5
+Added Pin To Net: NetName=NetAtmega1_35 Pin=JP2-6
+Added Pin To Net: NetName=NetAtmega1_34 Pin=JP2-7
+Added Pin To Net: NetName=NetAtmega1_33 Pin=JP2-8
+Added Pin To Net: NetName=NetAtmega1_21 Pin=JP3-1
+Added Pin To Net: NetName=NetAtmega1_20 Pin=JP3-2
+Added Pin To Net: NetName=NetAtmega1_19 Pin=JP3-3
+Added Pin To Net: NetName=NetAtmega1_18 Pin=JP3-4
+Added Pin To Net: NetName=NetAtmega1_17 Pin=JP3-5
+Added Pin To Net: NetName=NetAtmega1_16 Pin=JP3-6
+Added Pin To Net: NetName=NetAtmega1_15 Pin=JP3-7
+Added Pin To Net: NetName=NetAtmega1_14 Pin=JP3-8
+Added Pin To Net: NetName=NetAtmega1_22 Pin=JP4-1
+Added Pin To Net: NetName=NetAtmega1_23 Pin=JP4-2
+Added Pin To Net: NetName=NetAtmega1_24 Pin=JP4-3
+Added Pin To Net: NetName=NetAtmega1_25 Pin=JP4-4
+Added Pin To Net: NetName=NetAtmega1_26 Pin=JP4-5
+Added Pin To Net: NetName=NetAtmega1_27 Pin=JP4-6
+Added Pin To Net: NetName=NetAtmega1_28 Pin=JP4-7
+Added Pin To Net: NetName=NetAtmega1_29 Pin=JP4-8
+Added Member To Class: ClassName=atmg32 Member=Component JP5 JP8
+Added Room: Name=atmg32

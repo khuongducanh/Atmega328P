@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=AREF Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Designator: OldDesignator=Atmega32 NewDesignator=Atmega1
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=Nap_Code NewDesignator=Nap_Code1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=thach anh NewDesignator=thach anh1
+Added Component: Designator=C3(Capacitor 680uF/63V 16.5 x 26)
+Added Component: Designator=C4(Capacitor 680uF/63V 16.5 x 26)
+Added Pin To Net: NetName=NetC5_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=AREF Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Change Net Name : Old Net Name=NetAtmega32_1 New Net Name=NetAtmega1_1
+Change Net Name : Old Net Name=NetAtmega32_2 New Net Name=NetAtmega1_2
+Change Net Name : Old Net Name=NetAtmega32_3 New Net Name=NetAtmega1_3
+Change Net Name : Old Net Name=NetAtmega32_4 New Net Name=NetAtmega1_4
+Change Net Name : Old Net Name=NetAtmega32_5 New Net Name=NetAtmega1_5
+Change Net Name : Old Net Name=NetAtmega32_14 New Net Name=NetAtmega1_14
+Change Net Name : Old Net Name=NetAtmega32_15 New Net Name=NetAtmega1_15
+Change Net Name : Old Net Name=NetAtmega32_16 New Net Name=NetAtmega1_16
+Change Net Name : Old Net Name=NetAtmega32_17 New Net Name=NetAtmega1_17
+Change Net Name : Old Net Name=NetAtmega32_18 New Net Name=NetAtmega1_18
+Change Net Name : Old Net Name=NetAtmega32_19 New Net Name=NetAtmega1_19
+Change Net Name : Old Net Name=NetAtmega32_20 New Net Name=NetAtmega1_20
+Change Net Name : Old Net Name=NetAtmega32_21 New Net Name=NetAtmega1_21
+Change Net Name : Old Net Name=NetAtmega32_22 New Net Name=NetAtmega1_22
+Change Net Name : Old Net Name=NetAtmega32_23 New Net Name=NetAtmega1_23
+Change Net Name : Old Net Name=NetAtmega32_24 New Net Name=NetAtmega1_24
+Change Net Name : Old Net Name=NetAtmega32_25 New Net Name=NetAtmega1_25
+Change Net Name : Old Net Name=NetAtmega32_26 New Net Name=NetAtmega1_26
+Change Net Name : Old Net Name=NetAtmega32_27 New Net Name=NetAtmega1_27
+Change Net Name : Old Net Name=NetAtmega32_28 New Net Name=NetAtmega1_28
+Change Net Name : Old Net Name=NetAtmega32_29 New Net Name=NetAtmega1_29
+Change Net Name : Old Net Name=NetAtmega32_33 New Net Name=NetAtmega1_33
+Change Net Name : Old Net Name=NetAtmega32_34 New Net Name=NetAtmega1_34
+Change Net Name : Old Net Name=NetAtmega32_35 New Net Name=NetAtmega1_35
+Change Net Name : Old Net Name=NetAtmega32_36 New Net Name=NetAtmega1_36
+Change Net Name : Old Net Name=NetAtmega32_37 New Net Name=NetAtmega1_37
+Change Net Name : Old Net Name=NetAtmega32_38 New Net Name=NetAtmega1_38
+Change Net Name : Old Net Name=NetAtmega32_39 New Net Name=NetAtmega1_39
+Change Net Name : Old Net Name=NetAtmega32_40 New Net Name=NetAtmega1_40
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC1_2
+Added Room: Name=atmg32

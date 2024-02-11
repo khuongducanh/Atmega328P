@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=MOSI Pin=Nap_Code1-1
+Removed Pin From Net: NetName=Reset Pin=Nap_Code1-3
+Removed Pin From Net: NetName=SCK Pin=Nap_Code1-4
+Removed Pin From Net: NetName=MISO Pin=Nap_Code1-5
+Removed Pin From Net: NetName=GND Pin=Nap_Code1-6
+Removed Pin From Net: NetName=GND Pin=Nap_Code1-7
+Removed Pin From Net: NetName=GND Pin=Nap_Code1-8
+Removed Pin From Net: NetName=GND Pin=Nap_Code1-9
+Removed Pin From Net: NetName=AREF Pin=Nap_Code1-10
+Removed Member From Class: ClassName=atmg32 Member=Nap_Code1
+Added Component: Designator=JP5(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOSI Pin=P1-1
+Added Pin To Net: NetName=AREF Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=Reset Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=SCK Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=MISO Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Member To Class: ClassName=atmg32 Member=Component JP1 JP8
+Added Member To Class: ClassName=atmg32 Member=Component JP2 JP8
+Added Member To Class: ClassName=atmg32 Member=Component JP3 JP8
+Added Member To Class: ClassName=atmg32 Member=Component JP4 JP8
+Added Member To Class: ClassName=atmg32 Member=Component JP5 JP8
+Added Member To Class: ClassName=atmg32 Member=Component P1 Header 5X2
+Added Room: Name=atmg32

@@ -1,0 +1,192 @@
+Added Component: Designator=C5(Capacitor 680uF/63V 16.5 x 26)
+Added Component: Designator=C6(CN0)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor 680uF/63V 16.5 x 26)
+Added Component: Designator=C8(CN0)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(KF301-2P)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP8-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP8-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP8-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(JP8-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5MM-WHITE)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-1/4W)
+Added Component: Designator=U1(TO 220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=XTAL2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=XTAL1
+Change Net Name : Old Net Name=NetIC?_9 New Net Name=Reset
+Change Net Name : Old Net Name=VCC New Net Name=AREF
+Added Pin To Net: NetName=NetAtmega32_1 Pin=Atmega32-1
+Added Pin To Net: NetName=NetAtmega32_1 Pin=JP1-8
+Added Net: Name=NetAtmega32_1
+Added Pin To Net: NetName=NetAtmega32_2 Pin=Atmega32-2
+Added Pin To Net: NetName=NetAtmega32_2 Pin=JP1-7
+Added Net: Name=NetAtmega32_2
+Added Pin To Net: NetName=NetAtmega32_3 Pin=Atmega32-3
+Added Pin To Net: NetName=NetAtmega32_3 Pin=JP1-6
+Added Net: Name=NetAtmega32_3
+Added Pin To Net: NetName=NetAtmega32_4 Pin=Atmega32-4
+Added Pin To Net: NetName=NetAtmega32_4 Pin=JP1-5
+Added Net: Name=NetAtmega32_4
+Added Pin To Net: NetName=NetAtmega32_5 Pin=Atmega32-5
+Added Pin To Net: NetName=NetAtmega32_5 Pin=JP1-4
+Added Net: Name=NetAtmega32_5
+Added Pin To Net: NetName=NetAtmega32_6 Pin=Atmega32-6
+Added Pin To Net: NetName=NetAtmega32_6 Pin=JP1-3
+Added Net: Name=NetAtmega32_6
+Added Pin To Net: NetName=NetAtmega32_7 Pin=Atmega32-7
+Added Pin To Net: NetName=NetAtmega32_7 Pin=JP1-2
+Added Net: Name=NetAtmega32_7
+Added Pin To Net: NetName=NetAtmega32_8 Pin=Atmega32-8
+Added Pin To Net: NetName=NetAtmega32_8 Pin=JP1-1
+Added Net: Name=NetAtmega32_8
+Added Pin To Net: NetName=NetAtmega32_14 Pin=Atmega32-14
+Added Pin To Net: NetName=NetAtmega32_14 Pin=JP2-8
+Added Net: Name=NetAtmega32_14
+Added Pin To Net: NetName=NetAtmega32_15 Pin=Atmega32-15
+Added Pin To Net: NetName=NetAtmega32_15 Pin=JP2-7
+Added Net: Name=NetAtmega32_15
+Added Pin To Net: NetName=NetAtmega32_16 Pin=Atmega32-16
+Added Pin To Net: NetName=NetAtmega32_16 Pin=JP2-6
+Added Net: Name=NetAtmega32_16
+Added Pin To Net: NetName=NetAtmega32_17 Pin=Atmega32-17
+Added Pin To Net: NetName=NetAtmega32_17 Pin=JP2-5
+Added Net: Name=NetAtmega32_17
+Added Pin To Net: NetName=NetAtmega32_18 Pin=Atmega32-18
+Added Pin To Net: NetName=NetAtmega32_18 Pin=JP2-4
+Added Net: Name=NetAtmega32_18
+Added Pin To Net: NetName=NetAtmega32_19 Pin=Atmega32-19
+Added Pin To Net: NetName=NetAtmega32_19 Pin=JP2-3
+Added Net: Name=NetAtmega32_19
+Added Pin To Net: NetName=NetAtmega32_20 Pin=Atmega32-20
+Added Pin To Net: NetName=NetAtmega32_20 Pin=JP2-2
+Added Net: Name=NetAtmega32_20
+Added Pin To Net: NetName=NetAtmega32_21 Pin=Atmega32-21
+Added Pin To Net: NetName=NetAtmega32_21 Pin=JP2-1
+Added Net: Name=NetAtmega32_21
+Added Pin To Net: NetName=NetAtmega32_22 Pin=Atmega32-22
+Added Pin To Net: NetName=NetAtmega32_22 Pin=JP4-1
+Added Net: Name=NetAtmega32_22
+Added Pin To Net: NetName=NetAtmega32_23 Pin=Atmega32-23
+Added Pin To Net: NetName=NetAtmega32_23 Pin=JP4-2
+Added Net: Name=NetAtmega32_23
+Added Pin To Net: NetName=NetAtmega32_24 Pin=Atmega32-24
+Added Pin To Net: NetName=NetAtmega32_24 Pin=JP4-3
+Added Net: Name=NetAtmega32_24
+Added Pin To Net: NetName=NetAtmega32_25 Pin=Atmega32-25
+Added Pin To Net: NetName=NetAtmega32_25 Pin=JP4-4
+Added Net: Name=NetAtmega32_25
+Added Pin To Net: NetName=NetAtmega32_26 Pin=Atmega32-26
+Added Pin To Net: NetName=NetAtmega32_26 Pin=JP4-5
+Added Net: Name=NetAtmega32_26
+Added Pin To Net: NetName=NetAtmega32_27 Pin=Atmega32-27
+Added Pin To Net: NetName=NetAtmega32_27 Pin=JP4-6
+Added Net: Name=NetAtmega32_27
+Added Pin To Net: NetName=NetAtmega32_28 Pin=Atmega32-28
+Added Pin To Net: NetName=NetAtmega32_28 Pin=JP4-7
+Added Net: Name=NetAtmega32_28
+Added Pin To Net: NetName=NetAtmega32_29 Pin=Atmega32-29
+Added Pin To Net: NetName=NetAtmega32_29 Pin=JP4-8
+Added Net: Name=NetAtmega32_29
+Added Pin To Net: NetName=NetAtmega32_33 Pin=Atmega32-33
+Added Pin To Net: NetName=NetAtmega32_33 Pin=JP3-8
+Added Net: Name=NetAtmega32_33
+Added Pin To Net: NetName=NetAtmega32_34 Pin=Atmega32-34
+Added Pin To Net: NetName=NetAtmega32_34 Pin=JP3-7
+Added Net: Name=NetAtmega32_34
+Added Pin To Net: NetName=NetAtmega32_35 Pin=Atmega32-35
+Added Pin To Net: NetName=NetAtmega32_35 Pin=JP3-6
+Added Net: Name=NetAtmega32_35
+Added Pin To Net: NetName=NetAtmega32_36 Pin=Atmega32-36
+Added Pin To Net: NetName=NetAtmega32_36 Pin=JP3-5
+Added Net: Name=NetAtmega32_36
+Added Pin To Net: NetName=NetAtmega32_37 Pin=Atmega32-37
+Added Pin To Net: NetName=NetAtmega32_37 Pin=JP3-4
+Added Net: Name=NetAtmega32_37
+Added Pin To Net: NetName=NetAtmega32_38 Pin=Atmega32-38
+Added Pin To Net: NetName=NetAtmega32_38 Pin=JP3-3
+Added Net: Name=NetAtmega32_38
+Added Pin To Net: NetName=NetAtmega32_39 Pin=Atmega32-39
+Added Pin To Net: NetName=NetAtmega32_39 Pin=JP3-2
+Added Net: Name=NetAtmega32_39
+Added Pin To Net: NetName=NetAtmega32_40 Pin=Atmega32-40
+Added Pin To Net: NetName=NetAtmega32_40 Pin=JP3-1
+Added Net: Name=NetAtmega32_40
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=NetC5_1 Pin=HD1-2
+Added Pin To Net: NetName=NetC5_1 Pin=U1-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-2
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=atmg8A Member=Component Atmega32 ATMEGA32A-PU
+Added Member To Class: ClassName=atmg8A Member=Component C1 33pF
+Added Member To Class: ClassName=atmg8A Member=Component C2 33pF
+Added Member To Class: ClassName=atmg8A Member=Component C3 33pF
+Added Member To Class: ClassName=atmg8A Member=Component C4 33pF
+Added Member To Class: ClassName=atmg8A Member=Component C5 1000uF
+Added Member To Class: ClassName=atmg8A Member=Component C6 104pF
+Added Member To Class: ClassName=atmg8A Member=Component C7 100uF
+Added Member To Class: ClassName=atmg8A Member=Component C8 103pF
+Added Member To Class: ClassName=atmg8A Member=Component HD1 Header 2
+Added Member To Class: ClassName=atmg8A Member=Component JP1 JP8
+Added Member To Class: ClassName=atmg8A Member=Component JP2 JP8
+Added Member To Class: ClassName=atmg8A Member=Component JP3 JP8
+Added Member To Class: ClassName=atmg8A Member=Component JP4 JP8
+Added Member To Class: ClassName=atmg8A Member=Component LED1 LED
+Added Member To Class: ClassName=atmg8A Member=Component R2 220
+Added Member To Class: ClassName=atmg8A Member=Component U1 LM7805
+Added Room: Name=atmg8A

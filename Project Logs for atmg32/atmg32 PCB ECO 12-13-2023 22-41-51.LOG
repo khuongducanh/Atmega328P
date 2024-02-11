@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=AREF Pin=U1-3
+Change Component Comment : Designator=C6 Old Comment=103pF New Comment=103
+Change Component Comment : Designator=C2 Old Comment=103pF New Comment=104
+Change Component Comment : Designator=C1 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C5 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C3 Old Comment=2000uF/10V New Comment=1000uF/16V
+Change Component Comment : Designator=C4 Old Comment=2000uF/10V New Comment=1000uF/16V
+Change Component Comment : Designator=R4 Old Comment=Res-1/4W New Comment=220
+Added Component: Designator=U1(TO 220+Heatsink 21x15x10mm)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=AREF Pin=U1-3
+Added Room: Name=atmg32

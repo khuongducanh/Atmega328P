@@ -1,0 +1,31 @@
+Added Component: Designator=LED3(LED-5MM-WHITE)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-1/4W)
+Added Component: Designator=SW2(BUTTON 12x12x5 4P DIP)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(VR-RM065)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=AREF Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=Bien_tro_1 Pin=Atmega1-15
+Added Pin To Net: NetName=Bien_tro_1 Pin=JP3-7
+Added Pin To Net: NetName=Bien_tro_1 Pin=VR1-2
+Added Net: Name=Bien_tro_1
+Added Pin To Net: NetName=Button_1 Pin=Atmega1-16
+Added Pin To Net: NetName=Button_1 Pin=JP3-6
+Added Pin To Net: NetName=Button_1 Pin=SW2-2
+Added Net: Name=Button_1
+Added Pin To Net: NetName=Led_1 Pin=Atmega1-14
+Added Pin To Net: NetName=Led_1 Pin=JP3-8
+Added Pin To Net: NetName=Led_1 Pin=R4-1
+Added Net: Name=Led_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R4-2
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=atmg32 Member=Component LED3 LED
+Added Member To Class: ClassName=atmg32 Member=Component R4 Res-1/4W
+Added Member To Class: ClassName=atmg32 Member=Component SW2 SW
+Added Member To Class: ClassName=atmg32 Member=Component VR1 10K
+Added Room: Name=atmg32

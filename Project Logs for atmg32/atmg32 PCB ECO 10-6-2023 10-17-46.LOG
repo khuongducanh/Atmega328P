@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=AREF Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Added Component: Designator=C5(CAP 10x16x5 CURVE)
+Added Component: Designator=C7(CAP 10x16x5 CURVE)
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=AREF Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Change Class Name : Old Net Name=atmg8A New Net Name=atmg32
+Added Member To Class: ClassName=atmg32 Member=Component C5 1000uF
+Added Member To Class: ClassName=atmg32 Member=Component C7 100uF
+Added Room: Name=atmg32

@@ -1,0 +1,7 @@
+Added Component: Designator=JP5(XH2.54-8P)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=atmg32 Member=Component C3 2000uF/10V
+Added Member To Class: ClassName=atmg32 Member=Component C4 2000uF/10V
+Added Member To Class: ClassName=atmg32 Member=Component JP5 JP8
+Added Member To Class: ClassName=atmg32 Member=Component Nap_Code1 JP5x2
+Added Room: Name=atmg32

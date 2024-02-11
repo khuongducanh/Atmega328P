@@ -1,0 +1,46 @@
+Change Component Comment : Designator=C3 Old Comment=33pF New Comment=22pF
+Change Component Comment : Designator=C4 Old Comment=33pF New Comment=22pF
+Change Component Comment : Designator=C2 Old Comment=33pF New Comment=103pF
+Change Component Comment : Designator=C1 Old Comment=33pF New Comment=104pF
+Added Component: Designator=LED2(LED-5MM-WHITE)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Nap_Code(JP5-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61301021821"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-1/4W)
+Added Pin To Net: NetName=Reset Pin=Nap_Code-3
+Added Pin To Net: NetName=GND Pin=Nap_Code-6
+Added Pin To Net: NetName=GND Pin=Nap_Code-7
+Added Pin To Net: NetName=GND Pin=Nap_Code-8
+Added Pin To Net: NetName=GND Pin=Nap_Code-9
+Added Pin To Net: NetName=AREF Pin=Nap_Code-10
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=MISO Pin=Atmega32-7
+Added Pin To Net: NetName=MISO Pin=JP1-2
+Added Pin To Net: NetName=MISO Pin=Nap_Code-5
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Atmega32-6
+Added Pin To Net: NetName=MOSI Pin=JP1-3
+Added Pin To Net: NetName=MOSI Pin=Nap_Code-1
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R3-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=SCK Pin=Atmega32-8
+Added Pin To Net: NetName=SCK Pin=JP1-1
+Added Pin To Net: NetName=SCK Pin=LED2-1
+Added Pin To Net: NetName=SCK Pin=Nap_Code-4
+Added Net: Name=SCK
+Added Member To Class: ClassName=atmg32 Member=Component C5 1000uF
+Added Member To Class: ClassName=atmg32 Member=Component C7 100uF
+Added Member To Class: ClassName=atmg32 Member=Component LED2 LED
+Added Member To Class: ClassName=atmg32 Member=Component Nap_Code JP5x2
+Added Member To Class: ClassName=atmg32 Member=Component R3 220
+Added Room: Name=atmg32
